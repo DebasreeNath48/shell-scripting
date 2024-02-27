@@ -8,3 +8,12 @@
 1<br>
 23<br>
 456<br>
+
+[pattern6](https://github.com/DebasreeNath48/shell-scripting/blob/main/pattern6.sh)<br>
+     *<br>
+    * *<br>
+   * * *<br>
+  * * * *<br>
+ * * * * *<br>
+* * * * * *<br>
+
