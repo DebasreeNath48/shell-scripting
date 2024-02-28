@@ -1,3 +1,12 @@
+<<com
+
+    *
+   * *
+  * * *
+ * * * *
+* * * * *
+com
+
 #!/bin/bash
 echo "enter n: "
 read n
