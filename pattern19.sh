@@ -1,3 +1,16 @@
+<<com
+ *       *
+  *     *
+   *   *
+    * *
+     *
+     *
+    * *
+   *   *
+  *     *
+ *       *
+com
+
 #!/bin/bash
 
 echo "Enter the number of lines: "
