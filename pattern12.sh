@@ -1,3 +1,11 @@
+<<com
+ABCDE
+ABCD
+ABC
+AB
+A
+com
+
 #!/bin/bash
 echo "enter n: "
 read n
