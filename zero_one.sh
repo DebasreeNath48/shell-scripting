@@ -1,3 +1,12 @@
+<<com
+     0
+    10
+   010
+  1010
+ 01010
+101010
+com
+
 #!/bin/bash
 echo "enter n: "
 read n
